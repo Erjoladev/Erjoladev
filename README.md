@@ -26,6 +26,7 @@ Contribute to open-source projects
 Feel free to reach out or check out my projects!
 
 LinkedIn: https://www.linkedin.com/in/erjola-reufi-1462784b
+
 Email:reufierjola@gmail.com
 
 
