@@ -18,7 +18,9 @@ I'm currently working on small projects to practice my skills and showcase my le
  🔭 My Goals:
   
 Build a portfolio of diverse projects
+
 Learn industry best practices
+
 Contribute to open-source projects
 
 📫 How to reach me:
